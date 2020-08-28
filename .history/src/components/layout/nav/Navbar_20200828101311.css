@@ -1,0 +1,17 @@
+.bottom_nav {
+  background-color: rgb(233, 224, 224);
+}
+
+.colour_of_nav_text {
+  color: black;
+  font-size: 80%;
+}
+
+.logo {
+  width: 140px;
+}
+
+.search_bar {
+  margin-left: auto;
+  margin-top: 1.3%;
+}

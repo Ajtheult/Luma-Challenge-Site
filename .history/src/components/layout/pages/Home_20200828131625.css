@@ -1,0 +1,25 @@
+.top_size {
+  width: 100%;
+  height: 70%;
+  margin-top: 2%;
+}
+
+.hoodie_size {
+  width: 70%;
+  height: 150%;
+  margin-top: -30%;
+  float: left;
+}
+
+.clothing_size {
+  width: 140%;
+  height: 65%;
+  margin-top: -30%;
+  float: right;
+}
+
+.middle_size {
+  width: 30%;
+  height: 160%;
+  margin-top: -27%;
+}
