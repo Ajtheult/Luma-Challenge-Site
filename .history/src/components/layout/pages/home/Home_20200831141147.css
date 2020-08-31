@@ -1,0 +1,118 @@
+.top_size {
+  width: 100%;
+  height: 500px;
+  margin-top: 1%;
+}
+
+.bg-no-overlay {
+  /* Left */
+  background: url("../../resources/hoodie.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  float: left;
+  width: 70%;
+  height: 850px;
+  margin-top: 2%;
+}
+
+.bg-no-overlay-two {
+  /* top */
+  background: url("../../resources/shoe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  width: 132%;
+  height: 450px;
+  margin-top: 2%;
+  float: right;
+}
+
+.bg-no-overlay-three {
+  /* middle */
+  background: url("../../resources/beach.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  width: 60%;
+  height: 388px;
+  margin-top: -53%;
+  margin-right: -32%;
+  float: right;
+}
+
+.bg-no-overlay-four {
+  /* right */
+  background: url("../../resources/garden.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  width: 70%;
+  height: 800px;
+  margin-top: -53%;
+  margin-left: 20%;
+  float: right;
+}
+
+.bg-no-overlay-five {
+  /* bottom */
+  background: url("../../resources/forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  width: 132%;
+  height: 97%;
+  margin-top: 2%;
+  margin-left: -104%;
+}
+
+.left {
+  text-align: left;
+  margin-top: 590px;
+  width: 410px;
+  color: black;
+  background-color: grey;
+}
+
+.top {
+  float: right;
+  text-align: right;
+  color: black;
+  margin-top: 70px;
+}
+
+.middle {
+  text-align: left;
+  float: left;
+  background-color: rgb(23, 197, 209);
+  color: black;
+  width: 300px;
+  margin-top: 220px;
+}
+
+.right {
+  text-align: left;
+  float: right;
+  color: black;
+  width: 335px;
+  margin-top: 10px;
+}
+
+.bottom {
+  text-align: left;
+  float: left;
+  color: white;
+  width: 303px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.carousel-caption {
+  background-color: rgba(129, 41, 41, 0.493);
+  width: 70%;
+}
