@@ -14,7 +14,7 @@
   float: left;
   width: 70%;
   height: 850px;
-  margin-top: 2%;
+  margin-top: 5%;
 }
 
 .bg-no-overlay-two {
@@ -25,8 +25,8 @@
   background-position: center center;
   color: #fff;
   width: 132%;
-  height: 450px;
-  margin-top: 2%;
+  height: 400px;
+  margin-top: 5%;
   float: right;
 }
 
@@ -82,8 +82,9 @@
 .top {
   float: right;
   text-align: right;
+  background-color: rgb(186, 231, 24);
   color: black;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 .middle {
@@ -98,6 +99,7 @@
 .right {
   text-align: left;
   float: right;
+  background-color: rgb(235, 139, 95);
   color: black;
   width: 335px;
   margin-top: 10px;
@@ -106,9 +108,9 @@
 .bottom {
   text-align: left;
   float: left;
-  color: white;
+  background-color: grey;
+  color: black;
   width: 303px;
-  margin-left: 10px;
   margin-top: 10px;
 }
 

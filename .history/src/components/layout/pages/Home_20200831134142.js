@@ -72,10 +72,7 @@ const Home = () => {
           <Col>
             <div class="container bg-no-overlay-two">
               <div class="row top">
-                <h1>
-                  30% OFF <br />
-                  Get them fresh kicks
-                </h1>
+                <h1>Get them fresh kicks</h1>
               </div>
             </div>
           </Col>
@@ -83,23 +80,21 @@ const Home = () => {
         <Row>
           <Col>
             <div class="container bg-no-overlay-three">
-              <div class="row middle">
-                <h1>
-                  10% OFF <br /> Beautiful necklaces to flex
-                </h1>
+              <div class="row text-center">
+                <h1>This is a background image with NO overlay.</h1>
               </div>
             </div>
           </Col>
           <Col>
             <div class="container bg-no-overlay-four">
-              <div class="row right">
-                <h1>Many different styles of necklaces</h1>
+              <div class="row text-center">
+                <h1>This is a background image with NO overlay.</h1>
               </div>
             </div>
 
             <div class="container bg-no-overlay-five">
-              <div class="row bottom">
-                <h1>Male and female hoodies</h1>
+              <div class="row text-center">
+                <h1>This is a background image with NO overlay.</h1>
               </div>
             </div>
           </Col>
