@@ -14,8 +14,8 @@ const Navbar = () => {
             alt="logo"
             className="logo"
           />
+          <h6 className="logo-text">ULT</h6>
         </Nav.Link>
-        <h6 className="logo-text">ULT</h6>
         <Nav.Link className="search_bar">
           {" "}
           <Form>

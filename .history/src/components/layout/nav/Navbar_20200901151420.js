@@ -36,12 +36,12 @@ const Navbar = () => {
       <Nav className="justify-content-left bottom_nav" activeKey="/home">
         <Nav.Item>
           <Link to="/">
-            <p className="make-space">What's New</p>
+            <h5 className="make-space">What's New</h5>
           </Link>
         </Nav.Item>
         <Nav.Item>
           <Link to="/category">
-            <p className="make-space">Category</p>
+            <h5 className="make-space">Category</h5>
           </Link>
         </Nav.Item>
         <Nav.Item>

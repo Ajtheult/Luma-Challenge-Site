@@ -35,9 +35,7 @@ const Navbar = () => {
       </Nav>
       <Nav className="justify-content-left bottom_nav" activeKey="/home">
         <Nav.Item>
-          <Link to="/">
-            <p className="make-space">What's New</p>
-          </Link>
+          <Link to="/">{/* <p className="make-space">What's New</p> */}</Link>
         </Nav.Item>
         <Nav.Item>
           <Link to="/category">

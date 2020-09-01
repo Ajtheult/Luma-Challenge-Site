@@ -1,7 +1,11 @@
 .bottom_nav {
   background-color: rgb(233, 224, 224);
   margin-top: -3px;
-  height: 35px;
+}
+
+.colour_of_nav_text {
+  color: black;
+  font-size: 80%;
 }
 
 .logo {
@@ -29,10 +33,5 @@
 
 .make-space {
   margin-top: 5px;
-  padding-left: 15px;
-  color: black;
-}
-
-.make-space:hover {
-  font-weight: bold;
+  padding-left: 10px;
 }

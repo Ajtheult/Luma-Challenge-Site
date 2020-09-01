@@ -2,9 +2,9 @@ import React from "react";
 import Nav from "react-bootstrap/Nav";
 import Form from "react-bootstrap/Form";
 import { Link } from "react-router-dom";
-import "./Navbar.css";
+import "./CatNav.css";
 
-const Navbar = () => {
+const CatNav = () => {
   return (
     <div>
       <Nav className="justify-content-left" activeKey="/home">
@@ -30,10 +30,9 @@ const Navbar = () => {
             </Form.Row>
           </Form>
         </Nav.Link>
-        <Nav.Link></Nav.Link>
         <i class="fas fa-shopping-cart icon"></i>
       </Nav>
-      <Nav className="justify-content-left bottom_nav" activeKey="/home">
+      <Nav className="justify-content-left bottom_nav_two" activeKey="/home">
         <Nav.Item>
           <Link to="/">
             <p className="make-space">What's New</p>
@@ -54,4 +53,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default CatNav;

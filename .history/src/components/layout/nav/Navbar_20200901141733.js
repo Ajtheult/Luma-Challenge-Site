@@ -1,7 +1,8 @@
 import React from "react";
 import Nav from "react-bootstrap/Nav";
+
 import Form from "react-bootstrap/Form";
-import { Link } from "react-router-dom";
+
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -35,19 +36,19 @@ const Navbar = () => {
       </Nav>
       <Nav className="justify-content-left bottom_nav" activeKey="/home">
         <Nav.Item>
-          <Link to="/">
-            <p className="make-space">What's New</p>
-          </Link>
+          <Nav.Link href="#" className="colour_of_nav_text">
+            What's New
+          </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to="/category">
-            <p className="make-space">Category</p>
-          </Link>
+          <Nav.Link href="#" className="colour_of_nav_text">
+            Category
+          </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to="/">
-            <p className="make-space">Sale</p>
-          </Link>
+          <Nav.Link href="#" className="colour_of_nav_text">
+            Sale
+          </Nav.Link>
         </Nav.Item>
       </Nav>
     </div>

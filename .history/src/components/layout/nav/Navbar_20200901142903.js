@@ -35,19 +35,19 @@ const Navbar = () => {
       </Nav>
       <Nav className="justify-content-left bottom_nav" activeKey="/home">
         <Nav.Item>
-          <Link to="/">
-            <p className="make-space">What's New</p>
-          </Link>
+          <Nav.Link href="#" className="colour_of_nav_text">
+            What's New
+          </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to="/category">
-            <p className="make-space">Category</p>
-          </Link>
+          <Nav.Link to="/category" className="colour_of_nav_text">
+            Category
+          </Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to="/">
-            <p className="make-space">Sale</p>
-          </Link>
+          <Nav.Link href="#" className="colour_of_nav_text">
+            Sale
+          </Nav.Link>
         </Nav.Item>
       </Nav>
     </div>
