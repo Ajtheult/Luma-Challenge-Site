@@ -42,10 +42,10 @@ a:hover {
 }
 
 .sub-button {
-  padding: 3px;
+  padding: 15px;
   background-color: rgb(26, 117, 192);
   border: none;
   color: white;
-  transform: translate(322%, -105%);
+  transform: translate(280%, -105%);
   font-size: 20px;
 }

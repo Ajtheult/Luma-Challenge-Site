@@ -10,13 +10,12 @@ const HomeFooter = () => {
           <a href="#home">About us</a> <br />
           <a href="#home">Customer Service</a>
         </div>
-        <div className="email">
-          <Form.Control
-            type="email"
-            placeholder="✉ Enter your email address..."
-          />
-          <button className="sub-button">Subscribe</button>
-        </div>
+        <Form.Control
+          type="email"
+          placeholder="✉ Enter your email address..."
+          className="email"
+        />
+        <button></button>
         <br />
         <div className="div-two">
           <a href="#home">Privacy and Cookie Policy</a> <br />

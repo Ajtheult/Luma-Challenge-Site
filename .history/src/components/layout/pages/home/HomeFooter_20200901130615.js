@@ -15,7 +15,7 @@ const HomeFooter = () => {
             type="email"
             placeholder="✉ Enter your email address..."
           />
-          <button className="sub-button">Subscribe</button>
+          <button></button>
         </div>
         <br />
         <div className="div-two">

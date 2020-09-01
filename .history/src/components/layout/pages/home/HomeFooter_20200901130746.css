@@ -38,7 +38,7 @@ a:hover {
 .email {
   width: 20%;
   float: right;
-  transform: translate(-35%, -70%);
+  transform: translate(-25%, -150%);
 }
 
 .sub-button {
@@ -46,6 +46,4 @@ a:hover {
   background-color: rgb(26, 117, 192);
   border: none;
   color: white;
-  transform: translate(322%, -105%);
-  font-size: 20px;
 }
