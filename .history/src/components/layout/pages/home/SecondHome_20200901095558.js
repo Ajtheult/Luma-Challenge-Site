@@ -36,8 +36,6 @@ const SecondHome = () => {
                 <Card.Title>Orange Hoodie Plain</Card.Title>
                 <Card.Text>R600</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -54,8 +52,6 @@ const SecondHome = () => {
                 <Card.Title>Orange Hoodie (text)</Card.Title>
                 <Card.Text>R650</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -72,8 +68,6 @@ const SecondHome = () => {
                 <Card.Title>Black Hoodie (Female)</Card.Title>
                 <Card.Text>R450</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -90,8 +84,6 @@ const SecondHome = () => {
                 <Card.Title>Black Hoodie (Male)</Card.Title>
                 <Card.Text>R460</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -108,8 +100,6 @@ const SecondHome = () => {
                 <Card.Title>Minimalist Necklace (Female)</Card.Title>
                 <Card.Text>R300</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -126,8 +116,6 @@ const SecondHome = () => {
                 <Card.Title>Ruby Necklace (Female)</Card.Title>
                 <Card.Text>R340</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>
@@ -144,8 +132,6 @@ const SecondHome = () => {
                 <Card.Title>Ring Necklace (Male)</Card.Title>
                 <Card.Text>R290</Card.Text>
                 <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
               </Card.Body>
             </Card>
           </Col>

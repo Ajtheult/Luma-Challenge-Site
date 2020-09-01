@@ -22,19 +22,7 @@
   text-align: left;
 }
 
-.card-text {
-  font-weight: bold;
-}
-
 .buttons {
-  padding: 10px;
-  background-color: rgb(26, 117, 192);
-  border: none;
-  color: white;
-}
-
-.heart-icon-card {
-  margin-left: 15px;
-  font-size: 18px;
-  color: grey;
+  padding: 6px;
+  background-color: rgb(10, 107, 185);
 }

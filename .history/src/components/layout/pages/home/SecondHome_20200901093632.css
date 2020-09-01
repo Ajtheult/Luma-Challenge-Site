@@ -1,0 +1,19 @@
+.heading {
+  margin-top: 15px;
+}
+
+.cards {
+  width: 100%;
+  padding: 20px;
+  padding-top: 30px;
+}
+
+.second-row {
+  margin-top: 10px;
+  margin: 10px;
+  padding-left: 50px;
+}
+
+.image-heights {
+  height: 220px;
+}

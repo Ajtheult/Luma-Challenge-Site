@@ -4,6 +4,7 @@ import "./SecondHome.css";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 // images
 import one from "../../resources/SecondHome/one.jpg";
 import two from "../../resources/SecondHome/two.jpg";
@@ -35,9 +36,7 @@ const SecondHome = () => {
               <Card.Body>
                 <Card.Title>Orange Hoodie Plain</Card.Title>
                 <Card.Text>R600</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -53,9 +52,7 @@ const SecondHome = () => {
               <Card.Body>
                 <Card.Title>Orange Hoodie (text)</Card.Title>
                 <Card.Text>R650</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -71,9 +68,7 @@ const SecondHome = () => {
               <Card.Body>
                 <Card.Title>Black Hoodie (Female)</Card.Title>
                 <Card.Text>R450</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -87,11 +82,9 @@ const SecondHome = () => {
                 alt="four"
               />
               <Card.Body>
-                <Card.Title>Black Hoodie (Male)</Card.Title>
+                <Card.Title>Black Hoodie (M)</Card.Title>
                 <Card.Text>R460</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -105,11 +98,9 @@ const SecondHome = () => {
                 alt="five"
               />
               <Card.Body>
-                <Card.Title>Minimalist Necklace (Female)</Card.Title>
+                <Card.Title>Minimalist Necklace (F)</Card.Title>
                 <Card.Text>R300</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -123,11 +114,9 @@ const SecondHome = () => {
                 alt="six"
               />
               <Card.Body>
-                <Card.Title>Ruby Necklace (Female)</Card.Title>
+                <Card.Title>Ruby Necklace (F)</Card.Title>
                 <Card.Text>R340</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -141,11 +130,9 @@ const SecondHome = () => {
                 alt="seven"
               />
               <Card.Body>
-                <Card.Title>Ring Necklace (Male)</Card.Title>
+                <Card.Title>Ring Necklace (M)</Card.Title>
                 <Card.Text>R290</Card.Text>
-                <button className="buttons">Add to cart</button>
-                <i class="fas fa-heart heart-icon-card"></i>
-                <i class="far fa-chart-bar heart-icon-card"></i>
+                <Button variant="primary">Go somewhere</Button>
               </Card.Body>
             </Card>
           </Col>
