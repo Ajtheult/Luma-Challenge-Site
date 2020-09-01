@@ -1,0 +1,27 @@
+.footer {
+  text-align: left;
+  padding: 20px;
+  background-color: rgb(245, 240, 240);
+  line-height: 30px;
+  height: 200px;
+}
+
+.footer .div-two {
+  transform: translate(25%, -60%);
+  width: 80%;
+}
+
+.footer-two {
+  text-align: center;
+  padding: 3px;
+  background-color: grey;
+  color: white;
+}
+
+.footer-two p {
+  margin-top: 5px;
+}
+
+a {
+  color: grey;
+}

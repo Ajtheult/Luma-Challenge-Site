@@ -1,8 +1,7 @@
 import React from "react";
 import Navbar from "../../nav/Navbar";
 import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
+import { Row, Col } from "react-bootstrap";
 import Carousel from "react-bootstrap/Carousel";
 // Images
 import yoga from "../../resources/yoga.jpg";

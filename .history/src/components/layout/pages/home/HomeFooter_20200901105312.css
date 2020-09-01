@@ -1,0 +1,18 @@
+.footer {
+  text-align: left;
+  padding: 20px;
+  background-color: rgb(223, 221, 221);
+  color: grey;
+  height: 200px;
+}
+
+.footer-two {
+  text-align: center;
+  padding: 3px;
+  background-color: grey;
+  color: white;
+}
+
+.footer .div-two {
+  transform: translate(10%, -50%);
+}

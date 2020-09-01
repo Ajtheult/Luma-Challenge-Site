@@ -109,7 +109,7 @@ const Home = () => {
         </Row>
       </Container>
       <SecondHome />
-      <HomeFooter />
+      {/* <HomeFooter /> */}
     </div>
   );
 };

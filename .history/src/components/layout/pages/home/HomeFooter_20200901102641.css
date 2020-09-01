@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(197, 196, 196);
+  color: white;
+  height: 200px;
+}
+
+.footer-two {
+  text-align: center;
+  padding: 3px;
+  background-color: grey;
+  color: white;
+}
