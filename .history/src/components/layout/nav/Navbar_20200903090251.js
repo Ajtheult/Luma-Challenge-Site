@@ -40,8 +40,8 @@ const Navbar = () => {
           </Link>
         </Nav.Item>
         <Nav.Item>
-          <Link to="/checkout">
-            <p className="make-space">Checkout</p>
+          <Link to="/">
+            <p className="make-space">Sale</p>
           </Link>
         </Nav.Item>
       </Nav>

@@ -6,7 +6,7 @@ const Category = () => {
   return (
     <div>
       <CatNav />
-      <h2 className="title">Hoodies</h2>
+      <h4>Category</h4>
     </div>
   );
 };
